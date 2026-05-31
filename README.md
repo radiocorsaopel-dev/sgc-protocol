@@ -77,7 +77,7 @@ Dryf ≥ 0.5  →  HURRICANE (halucynacje, odejście od tematu)
 
 Właściwy protokół żyje w plikach `.py` tworzonych ręcznie przez użytkownika dla konkretnego projektu. Taki plik jest wstrzykiwany do sesji LLM jako jedyne źródło prawdy o stanie projektu – zawiera parametry techniczne, historię decyzji, wykaz błędów modeli i asercje weryfikujące spójność danych.
 
-W praktyce SGC stosowany jest w projektach inżynierskich (automatyka, geodezja, systemy wbudowane) z weryfikacją krzyżową między modelami (Claude / GPT / Gemini).
+W praktyce SGC stosowany jest w projektach inżynierskich z weryfikacją krzyżową między modelami (Claude / GPT / Gemini).
 
 ---
 
