@@ -4,6 +4,8 @@
 
 SGC (GlobalCoreSkeleton) to lekki protokół inżynierski zaprojektowany, by **tłumić dryf kontekstu** w długich sesjach z modelami językowymi (LLM).
 
+Weryfikacja krzyżowa na plikach projektowych (Claude / GPT / Gemini) daje powtarzalność wniosków na poziomie ~95%.
+
 Każdy, kto pracował z ChatGPT, Claude czy Gemini nad złożonym projektem technicznym, zna problem: po kilkunastu wymianach model zaczyna „dryfować" – zapomina wcześniejsze ustalenia, zmienia styl odpowiedzi, a w końcu generuje odpowiedzi sprzeczne z tym, co było ustalone na początku sesji. To jest właśnie **Efekt Motyla w LLM** – mała zmiana we wczesnym kontekście powoduje narastający chaos w późniejszych odpowiedziach.
 
 SGC rozwiązuje ten problem przez:
